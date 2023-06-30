@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#introduction{
+    padding: 60px;
+}
+#introduction .slider{
+    width: 500px;
+    height: 400px;
+}
+#introduction .slider img{
+    width: 100%;
+    height: 100%;
+}
+.house{
+    top: 440px;
+    position: absolute;
+    background-color: rgb(0, 119, 255);
+}
+.house2 h1{
+    right: 850px ;
+    top: 90px;
+    position: absolute; 
+}
+.house3 h1{
+    top: 90px;
+    position: absolute; 
+}
+.house4 h1{
+    right:850px ;
+    top: 400px;
+    position: absolute;
+}
+.title h2{
+    background-color: rgb(187, 186, 186);
+    position: absolute;
+    left: 60px auto;
+}
+.house5{
+    top: 940px;
+    position: absolute;
+    background-color: rgb(0, 119, 255);
+}
+.house6 h1{
+    right: 850px ;
+    top: 600px;
+    position: absolute; 
+}
+.house7 h1{
+    top: 600px;
+    position: absolute; 
+}
+.house8 h1{
+    right:850px ;
+    top: 950px;
+    position: absolute;
+}
+.title h2{
+    background-color: rgb(187, 186, 186);
+    position: absolute;
+    left: 60px auto;
+}
